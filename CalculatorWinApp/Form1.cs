@@ -23,7 +23,6 @@ namespace CalculatorWinApp
         {
             firstNumber = Convert.ToDouble(firstTextBox.Text);
             secondNumber = Convert.ToDouble(secondTextBox.Text);
-            resultTextBox.Text = Convert.ToString(firstNumber + secondNumber);
         }
 
         private void subtractButton_Click(object sender, EventArgs e)
