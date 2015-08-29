@@ -1,0 +1,15 @@
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.CalculatorUI.resources
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.Properties.Resources.resources
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\bin\Debug\CalculatorWinApp.exe
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\bin\Debug\CalculatorWinApp.pdb
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.exe
+E:\Visual.NetProjects\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.pdb
+C:\Users\Lab2\Desktop\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.exe
+C:\Users\Lab2\Desktop\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.pdb
+H:\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.exe
+H:\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.pdb
+F:\Taposh vai\VIdeo\Angularjs Course\New folder\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.exe
+F:\Taposh vai\VIdeo\Angularjs Course\New folder\CalculatorWinApp\CalculatorWinApp\obj\x86\Debug\CalculatorWinApp.pdb
